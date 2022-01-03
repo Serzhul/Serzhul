@@ -14,3 +14,6 @@
 
 # Github Status
 ![Serzhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serzhul&show_icons=true&theme=blue-green)
+
+# Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green)
