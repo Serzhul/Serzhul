@@ -13,4 +13,4 @@
 - 기술을 통해 저 자신과 조직 모두가 발전할 수 있는
 
 
-[![Serzhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serzhul)]
+[![Serzhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serzhul&show_icons=true&theme=blue-green)]
