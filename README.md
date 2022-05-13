@@ -19,6 +19,7 @@
 
 🙌  도전을 두려워하지 않고, 실패에도 좌절하지 않습니다.
 
+
 ## Tech Stack
 
 <p>
@@ -29,18 +30,12 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-
-  
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
 </p>
 
 <p>  
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="StyledComponents" src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styled-components&logoColor=white&style=flat" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
 </p>
 
 <p>
