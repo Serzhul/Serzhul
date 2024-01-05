@@ -44,9 +44,5 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
 
-
-# Github Status
-![Serzhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serzhul&show_icons=true&theme=blue-green)
-
 # Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green)
